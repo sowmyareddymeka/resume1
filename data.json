@@ -1,0 +1,53 @@
+{
+  "basics":{
+  "name":"sowmya",
+  "email":"sowmyareddy562@gmail.com",
+  "mobile":"+91-7075082295"
+  },
+  "career":{
+  "info":" To be the part of a reputed organization which provides steady carrer growth along with job satisfaction,challenges and give value contribution in the success of organization."
+  },
+  "education":[
+  {
+  "degree":"B.Tech",
+  "Institute":"PSCMR",
+  "data":["2015-19","67%"]
+  },
+  {
+  "degree":"Intermediate/Diploma",
+  "Institute":"Sri Chaitanya",
+  "data":["2013-15","82%"]
+  },
+  {
+  "degree":"S.S.C",
+  "Institute":"Ravindra Bharathi",
+  "data":["2012-13","6.7(G.P.A)"]
+  }
+],
+"achievements":[
+  {
+    "name":"Awarded as <b>2<sup>nd</sup>prize</b> in <q>Throw ball</q>"
+  },
+  {
+    "name":"Awarded as <strong>1<sup>st</sup>prize</strong> in <q>ppt</q>"
+  }
+],
+"skills":[
+  {
+    "name":"programming languages ",
+    "data":["c","java","python","c++"]
+  },
+  {
+    "name":"databases ",
+    "data":["oracle","mysql"]
+  },
+  {
+    "name":"web technologies ",
+    "data":["HTML","CSS","JavaScript"]
+  },
+  {
+    "name":"libraries and frameworks ",
+    "data":["jquery","codeigniter"]
+  }
+]
+}
